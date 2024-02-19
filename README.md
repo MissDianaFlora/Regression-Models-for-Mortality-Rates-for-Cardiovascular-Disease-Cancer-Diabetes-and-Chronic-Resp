@@ -1,2 +1,2 @@
-# Regression-Models-Predictive-Models
-Prediction of Mortality Rates for Cardiovascular Disease, Cancer, Diabetes, and Chronic Respiratory Diseases in the Population of Ireland using supervised Regression Models 
+# Msc-Data-Analytics-CA-One-Materials
+This repository contains my CA tackling a population problem using ML techniques
