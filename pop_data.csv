@@ -1,0 +1,1361 @@
+Area of Residence,ICD 10 Diagnostic Group,Year,Mortality Rate(per 1000)
+Carlow,Neoplasms,2007,1.91
+Carlow,Neoplasms,2008,2.02
+Carlow,Neoplasms,2009,2.17
+Carlow,Neoplasms,2010,1.72
+Carlow,Neoplasms,2011,2.33
+Carlow,Neoplasms,2012,1.97
+Carlow,Neoplasms,2013,2.4
+Carlow,Neoplasms,2014,2.08
+Carlow,Neoplasms,2015,2.37
+Carlow,Neoplasms,2016,2.41
+Carlow,Diseases of the circulatory system,2007,2.26
+Carlow,Diseases of the circulatory system,2008,1.92
+Carlow,Diseases of the circulatory system,2009,2.9
+Carlow,Diseases of the circulatory system,2010,2.0
+Carlow,Diseases of the circulatory system,2011,1.93
+Carlow,Diseases of the circulatory system,2012,2.17
+Carlow,Diseases of the circulatory system,2013,2.23
+Carlow,Diseases of the circulatory system,2014,2.1
+Carlow,Diseases of the circulatory system,2015,2.33
+Carlow,Diseases of the circulatory system,2016,1.79
+Carlow,Diseases of the respiratory system,2007,0.78
+Carlow,Diseases of the respiratory system,2008,0.91
+Carlow,Diseases of the respiratory system,2009,0.91
+Carlow,Diseases of the respiratory system,2010,0.76
+Carlow,Diseases of the respiratory system,2011,0.89
+Carlow,Diseases of the respiratory system,2012,1.02
+Carlow,Diseases of the respiratory system,2013,0.88
+Carlow,Diseases of the respiratory system,2014,0.83
+Carlow,Diseases of the respiratory system,2015,0.9
+Carlow,Diseases of the respiratory system,2016,0.8
+Carlow,External causes of injury and poisoning,2007,0.54
+Carlow,External causes of injury and poisoning,2008,0.3
+Carlow,External causes of injury and poisoning,2009,0.46
+Carlow,External causes of injury and poisoning,2010,0.37
+Carlow,External causes of injury and poisoning,2011,0.31
+Carlow,External causes of injury and poisoning,2012,0.34
+Carlow,External causes of injury and poisoning,2013,0.52
+Carlow,External causes of injury and poisoning,2014,0.34
+Carlow,External causes of injury and poisoning,2015,0.42
+Carlow,External causes of injury and poisoning,2016,0.28
+Dublin City,Neoplasms,2007,2.23
+Dublin City,Neoplasms,2008,2.33
+Dublin City,Neoplasms,2009,2.24
+Dublin City,Neoplasms,2010,2.22
+Dublin City,Neoplasms,2011,2.34
+Dublin City,Neoplasms,2012,2.26
+Dublin City,Neoplasms,2013,2.19
+Dublin City,Neoplasms,2014,2.25
+Dublin City,Neoplasms,2015,2.32
+Dublin City,Neoplasms,2016,2.23
+Dublin City,Diseases of the circulatory system,2007,2.52
+Dublin City,Diseases of the circulatory system,2008,2.63
+Dublin City,Diseases of the circulatory system,2009,2.2
+Dublin City,Diseases of the circulatory system,2010,2.33
+Dublin City,Diseases of the circulatory system,2011,2.26
+Dublin City,Diseases of the circulatory system,2012,2.08
+Dublin City,Diseases of the circulatory system,2013,2.06
+Dublin City,Diseases of the circulatory system,2014,2.0
+Dublin City,Diseases of the circulatory system,2015,2.16
+Dublin City,Diseases of the circulatory system,2016,1.97
+Dublin City,Diseases of the respiratory system,2007,0.89
+Dublin City,Diseases of the respiratory system,2008,1.01
+Dublin City,Diseases of the respiratory system,2009,0.98
+Dublin City,Diseases of the respiratory system,2010,0.8
+Dublin City,Diseases of the respiratory system,2011,0.84
+Dublin City,Diseases of the respiratory system,2012,0.82
+Dublin City,Diseases of the respiratory system,2013,0.87
+Dublin City,Diseases of the respiratory system,2014,0.75
+Dublin City,Diseases of the respiratory system,2015,0.93
+Dublin City,Diseases of the respiratory system,2016,0.9
+Dublin City,External causes of injury and poisoning,2007,0.49
+Dublin City,External causes of injury and poisoning,2008,0.56
+Dublin City,External causes of injury and poisoning,2009,0.45
+Dublin City,External causes of injury and poisoning,2010,0.47
+Dublin City,External causes of injury and poisoning,2011,0.47
+Dublin City,External causes of injury and poisoning,2012,0.44
+Dublin City,External causes of injury and poisoning,2013,0.36
+Dublin City,External causes of injury and poisoning,2014,0.35
+Dublin City,External causes of injury and poisoning,2015,0.27
+Dublin City,External causes of injury and poisoning,2016,0.25
+South Dublin,Neoplasms,2007,1.47
+South Dublin,Neoplasms,2008,1.16
+South Dublin,Neoplasms,2009,1.47
+South Dublin,Neoplasms,2010,1.51
+South Dublin,Neoplasms,2011,1.85
+South Dublin,Neoplasms,2012,1.56
+South Dublin,Neoplasms,2013,1.66
+South Dublin,Neoplasms,2014,1.9
+South Dublin,Neoplasms,2015,1.77
+South Dublin,Neoplasms,2016,1.74
+South Dublin,Diseases of the circulatory system,2007,1.88
+South Dublin,Diseases of the circulatory system,2008,1.0
+South Dublin,Diseases of the circulatory system,2009,1.66
+South Dublin,Diseases of the circulatory system,2010,1.43
+South Dublin,Diseases of the circulatory system,2011,1.69
+South Dublin,Diseases of the circulatory system,2012,1.57
+South Dublin,Diseases of the circulatory system,2013,1.58
+South Dublin,Diseases of the circulatory system,2014,1.55
+South Dublin,Diseases of the circulatory system,2015,1.59
+South Dublin,Diseases of the circulatory system,2016,1.47
+South Dublin,Diseases of the respiratory system,2007,0.56
+South Dublin,Diseases of the respiratory system,2008,0.42
+South Dublin,Diseases of the respiratory system,2009,0.68
+South Dublin,Diseases of the respiratory system,2010,0.65
+South Dublin,Diseases of the respiratory system,2011,0.77
+South Dublin,Diseases of the respiratory system,2012,0.59
+South Dublin,Diseases of the respiratory system,2013,0.68
+South Dublin,Diseases of the respiratory system,2014,0.7
+South Dublin,Diseases of the respiratory system,2015,0.67
+South Dublin,Diseases of the respiratory system,2016,0.54
+South Dublin,External causes of injury and poisoning,2007,0.37
+South Dublin,External causes of injury and poisoning,2008,0.31
+South Dublin,External causes of injury and poisoning,2009,0.37
+South Dublin,External causes of injury and poisoning,2010,0.27
+South Dublin,External causes of injury and poisoning,2011,0.34
+South Dublin,External causes of injury and poisoning,2012,0.16
+South Dublin,External causes of injury and poisoning,2013,0.27
+South Dublin,External causes of injury and poisoning,2014,0.29
+South Dublin,External causes of injury and poisoning,2015,0.12
+South Dublin,External causes of injury and poisoning,2016,0.22
+Fingal,Neoplasms,2007,1.97
+Fingal,Neoplasms,2008,1.19
+Fingal,Neoplasms,2009,2.05
+Fingal,Neoplasms,2010,1.5
+Fingal,Neoplasms,2011,1.86
+Fingal,Neoplasms,2012,2.11
+Fingal,Neoplasms,2013,2.05
+Fingal,Neoplasms,2014,1.93
+Fingal,Neoplasms,2015,1.66
+Fingal,Neoplasms,2016,1.74
+Fingal,Diseases of the circulatory system,2007,1.88
+Fingal,Diseases of the circulatory system,2008,1.12
+Fingal,Diseases of the circulatory system,2009,1.95
+Fingal,Diseases of the circulatory system,2010,1.61
+Fingal,Diseases of the circulatory system,2011,1.46
+Fingal,Diseases of the circulatory system,2012,1.89
+Fingal,Diseases of the circulatory system,2013,1.66
+Fingal,Diseases of the circulatory system,2014,1.66
+Fingal,Diseases of the circulatory system,2015,1.64
+Fingal,Diseases of the circulatory system,2016,1.26
+Fingal,Diseases of the respiratory system,2007,0.78
+Fingal,Diseases of the respiratory system,2008,0.35
+Fingal,Diseases of the respiratory system,2009,0.83
+Fingal,Diseases of the respiratory system,2010,0.74
+Fingal,Diseases of the respiratory system,2011,0.64
+Fingal,Diseases of the respiratory system,2012,0.78
+Fingal,Diseases of the respiratory system,2013,0.61
+Fingal,Diseases of the respiratory system,2014,0.58
+Fingal,Diseases of the respiratory system,2015,0.61
+Fingal,Diseases of the respiratory system,2016,0.81
+Fingal,External causes of injury and poisoning,2007,0.23
+Fingal,External causes of injury and poisoning,2008,0.24
+Fingal,External causes of injury and poisoning,2009,0.32
+Fingal,External causes of injury and poisoning,2010,0.25
+Fingal,External causes of injury and poisoning,2011,0.27
+Fingal,External causes of injury and poisoning,2012,0.25
+Fingal,External causes of injury and poisoning,2013,0.21
+Fingal,External causes of injury and poisoning,2014,0.21
+Fingal,External causes of injury and poisoning,2015,0.17
+Fingal,External causes of injury and poisoning,2016,0.16
+Dun Laoghaire-Rathdown,Neoplasms,2007,1.79
+Dun Laoghaire-Rathdown,Neoplasms,2008,2.1
+Dun Laoghaire-Rathdown,Neoplasms,2009,2.0
+Dun Laoghaire-Rathdown,Neoplasms,2010,1.75
+Dun Laoghaire-Rathdown,Neoplasms,2011,1.74
+Dun Laoghaire-Rathdown,Neoplasms,2012,1.73
+Dun Laoghaire-Rathdown,Neoplasms,2013,1.85
+Dun Laoghaire-Rathdown,Neoplasms,2014,1.87
+Dun Laoghaire-Rathdown,Neoplasms,2015,1.68
+Dun Laoghaire-Rathdown,Neoplasms,2016,1.87
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2007,1.68
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2008,2.11
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2009,1.5
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2010,1.76
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2011,1.49
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2012,1.81
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2013,1.57
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2014,1.46
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2015,1.7
+Dun Laoghaire-Rathdown,Diseases of the circulatory system,2016,1.53
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2007,0.61
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2008,0.84
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2009,0.63
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2010,0.58
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2011,0.61
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2012,0.67
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2013,0.58
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2014,0.66
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2015,0.64
+Dun Laoghaire-Rathdown,Diseases of the respiratory system,2016,0.65
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2007,0.31
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2008,0.28
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2009,0.39
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2010,0.31
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2011,0.21
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2012,0.25
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2013,0.27
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2014,0.15
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2015,0.1
+Dun Laoghaire-Rathdown,External causes of injury and poisoning,2016,0.13
+Kildare,Neoplasms,2007,1.71
+Kildare,Neoplasms,2008,1.27
+Kildare,Neoplasms,2009,1.99
+Kildare,Neoplasms,2010,1.78
+Kildare,Neoplasms,2011,1.86
+Kildare,Neoplasms,2012,2.02
+Kildare,Neoplasms,2013,2.03
+Kildare,Neoplasms,2014,1.79
+Kildare,Neoplasms,2015,1.82
+Kildare,Neoplasms,2016,2.0
+Kildare,Diseases of the circulatory system,2007,2.32
+Kildare,Diseases of the circulatory system,2008,1.57
+Kildare,Diseases of the circulatory system,2009,2.39
+Kildare,Diseases of the circulatory system,2010,1.97
+Kildare,Diseases of the circulatory system,2011,2.04
+Kildare,Diseases of the circulatory system,2012,1.86
+Kildare,Diseases of the circulatory system,2013,1.81
+Kildare,Diseases of the circulatory system,2014,2.01
+Kildare,Diseases of the circulatory system,2015,1.76
+Kildare,Diseases of the circulatory system,2016,1.76
+Kildare,Diseases of the respiratory system,2007,0.68
+Kildare,Diseases of the respiratory system,2008,0.59
+Kildare,Diseases of the respiratory system,2009,0.86
+Kildare,Diseases of the respiratory system,2010,0.61
+Kildare,Diseases of the respiratory system,2011,0.7
+Kildare,Diseases of the respiratory system,2012,0.81
+Kildare,Diseases of the respiratory system,2013,0.8
+Kildare,Diseases of the respiratory system,2014,0.75
+Kildare,Diseases of the respiratory system,2015,0.82
+Kildare,Diseases of the respiratory system,2016,0.75
+Kildare,External causes of injury and poisoning,2007,0.37
+Kildare,External causes of injury and poisoning,2008,0.31
+Kildare,External causes of injury and poisoning,2009,0.27
+Kildare,External causes of injury and poisoning,2010,0.33
+Kildare,External causes of injury and poisoning,2011,0.37
+Kildare,External causes of injury and poisoning,2012,0.29
+Kildare,External causes of injury and poisoning,2013,0.32
+Kildare,External causes of injury and poisoning,2014,0.26
+Kildare,External causes of injury and poisoning,2015,0.27
+Kildare,External causes of injury and poisoning,2016,0.28
+Kilkenny,Neoplasms,2007,1.69
+Kilkenny,Neoplasms,2008,2.14
+Kilkenny,Neoplasms,2009,1.94
+Kilkenny,Neoplasms,2010,1.66
+Kilkenny,Neoplasms,2011,1.68
+Kilkenny,Neoplasms,2012,1.88
+Kilkenny,Neoplasms,2013,2.05
+Kilkenny,Neoplasms,2014,1.69
+Kilkenny,Neoplasms,2015,1.81
+Kilkenny,Neoplasms,2016,1.69
+Kilkenny,Diseases of the circulatory system,2007,1.98
+Kilkenny,Diseases of the circulatory system,2008,2.24
+Kilkenny,Diseases of the circulatory system,2009,1.87
+Kilkenny,Diseases of the circulatory system,2010,2.34
+Kilkenny,Diseases of the circulatory system,2011,1.93
+Kilkenny,Diseases of the circulatory system,2012,2.09
+Kilkenny,Diseases of the circulatory system,2013,2.1
+Kilkenny,Diseases of the circulatory system,2014,1.69
+Kilkenny,Diseases of the circulatory system,2015,2.03
+Kilkenny,Diseases of the circulatory system,2016,2.04
+Kilkenny,Diseases of the respiratory system,2007,0.68
+Kilkenny,Diseases of the respiratory system,2008,0.82
+Kilkenny,Diseases of the respiratory system,2009,0.74
+Kilkenny,Diseases of the respiratory system,2010,0.7
+Kilkenny,Diseases of the respiratory system,2011,0.75
+Kilkenny,Diseases of the respiratory system,2012,0.68
+Kilkenny,Diseases of the respiratory system,2013,0.86
+Kilkenny,Diseases of the respiratory system,2014,0.67
+Kilkenny,Diseases of the respiratory system,2015,0.84
+Kilkenny,Diseases of the respiratory system,2016,1.17
+Kilkenny,External causes of injury and poisoning,2007,0.38
+Kilkenny,External causes of injury and poisoning,2008,0.28
+Kilkenny,External causes of injury and poisoning,2009,0.31
+Kilkenny,External causes of injury and poisoning,2010,0.3
+Kilkenny,External causes of injury and poisoning,2011,0.34
+Kilkenny,External causes of injury and poisoning,2012,0.3
+Kilkenny,External causes of injury and poisoning,2013,0.24
+Kilkenny,External causes of injury and poisoning,2014,0.29
+Kilkenny,External causes of injury and poisoning,2015,0.3
+Kilkenny,External causes of injury and poisoning,2016,0.3
+Laois,Neoplasms,2007,1.76
+Laois,Neoplasms,2008,1.47
+Laois,Neoplasms,2009,1.67
+Laois,Neoplasms,2010,1.61
+Laois,Neoplasms,2011,1.82
+Laois,Neoplasms,2012,2.02
+Laois,Neoplasms,2013,1.61
+Laois,Neoplasms,2014,1.88
+Laois,Neoplasms,2015,1.94
+Laois,Neoplasms,2016,2.11
+Laois,Diseases of the circulatory system,2007,2.39
+Laois,Diseases of the circulatory system,2008,2.06
+Laois,Diseases of the circulatory system,2009,2.3
+Laois,Diseases of the circulatory system,2010,2.29
+Laois,Diseases of the circulatory system,2011,2.12
+Laois,Diseases of the circulatory system,2012,2.13
+Laois,Diseases of the circulatory system,2013,2.5
+Laois,Diseases of the circulatory system,2014,1.87
+Laois,Diseases of the circulatory system,2015,2.05
+Laois,Diseases of the circulatory system,2016,1.96
+Laois,Diseases of the respiratory system,2007,0.9
+Laois,Diseases of the respiratory system,2008,0.81
+Laois,Diseases of the respiratory system,2009,0.76
+Laois,Diseases of the respiratory system,2010,0.75
+Laois,Diseases of the respiratory system,2011,0.58
+Laois,Diseases of the respiratory system,2012,0.83
+Laois,Diseases of the respiratory system,2013,0.78
+Laois,Diseases of the respiratory system,2014,0.8
+Laois,Diseases of the respiratory system,2015,0.81
+Laois,Diseases of the respiratory system,2016,0.83
+Laois,External causes of injury and poisoning,2007,0.32
+Laois,External causes of injury and poisoning,2008,0.23
+Laois,External causes of injury and poisoning,2009,0.28
+Laois,External causes of injury and poisoning,2010,0.48
+Laois,External causes of injury and poisoning,2011,0.38
+Laois,External causes of injury and poisoning,2012,0.29
+Laois,External causes of injury and poisoning,2013,0.2
+Laois,External causes of injury and poisoning,2014,0.16
+Laois,External causes of injury and poisoning,2015,0.28
+Laois,External causes of injury and poisoning,2016,0.23
+Longford,Neoplasms,2007,2.34
+Longford,Neoplasms,2008,2.15
+Longford,Neoplasms,2009,2.05
+Longford,Neoplasms,2010,1.77
+Longford,Neoplasms,2011,1.8
+Longford,Neoplasms,2012,1.93
+Longford,Neoplasms,2013,1.84
+Longford,Neoplasms,2014,2.04
+Longford,Neoplasms,2015,2.19
+Longford,Neoplasms,2016,1.59
+Longford,Diseases of the circulatory system,2007,2.62
+Longford,Diseases of the circulatory system,2008,3.07
+Longford,Diseases of the circulatory system,2009,2.11
+Longford,Diseases of the circulatory system,2010,2.19
+Longford,Diseases of the circulatory system,2011,2.14
+Longford,Diseases of the circulatory system,2012,2.36
+Longford,Diseases of the circulatory system,2013,2.5
+Longford,Diseases of the circulatory system,2014,1.6
+Longford,Diseases of the circulatory system,2015,2.07
+Longford,Diseases of the circulatory system,2016,2.14
+Longford,Diseases of the respiratory system,2007,1.04
+Longford,Diseases of the respiratory system,2008,0.95
+Longford,Diseases of the respiratory system,2009,1.13
+Longford,Diseases of the respiratory system,2010,0.99
+Longford,Diseases of the respiratory system,2011,1.04
+Longford,Diseases of the respiratory system,2012,1.27
+Longford,Diseases of the respiratory system,2013,1.02
+Longford,Diseases of the respiratory system,2014,1.1
+Longford,Diseases of the respiratory system,2015,1.16
+Longford,Diseases of the respiratory system,2016,1.17
+Longford,External causes of injury and poisoning,2007,0.61
+Longford,External causes of injury and poisoning,2008,0.39
+Longford,External causes of injury and poisoning,2009,0.43
+Longford,External causes of injury and poisoning,2010,0.28
+Longford,External causes of injury and poisoning,2011,0.3
+Longford,External causes of injury and poisoning,2012,0.35
+Longford,External causes of injury and poisoning,2013,0.48
+Longford,External causes of injury and poisoning,2014,0.36
+Longford,External causes of injury and poisoning,2015,0.3
+Longford,External causes of injury and poisoning,2016,0.29
+Louth,Neoplasms,2007,1.86
+Louth,Neoplasms,2008,1.78
+Louth,Neoplasms,2009,1.92
+Louth,Neoplasms,2010,1.96
+Louth,Neoplasms,2011,1.96
+Louth,Neoplasms,2012,2.04
+Louth,Neoplasms,2013,2.18
+Louth,Neoplasms,2014,2.05
+Louth,Neoplasms,2015,2.08
+Louth,Neoplasms,2016,2.13
+Louth,Diseases of the circulatory system,2007,2.54
+Louth,Diseases of the circulatory system,2008,2.21
+Louth,Diseases of the circulatory system,2009,2.14
+Louth,Diseases of the circulatory system,2010,2.06
+Louth,Diseases of the circulatory system,2011,1.91
+Louth,Diseases of the circulatory system,2012,1.88
+Louth,Diseases of the circulatory system,2013,1.82
+Louth,Diseases of the circulatory system,2014,1.68
+Louth,Diseases of the circulatory system,2015,2.14
+Louth,Diseases of the circulatory system,2016,1.73
+Louth,Diseases of the respiratory system,2007,0.8
+Louth,Diseases of the respiratory system,2008,0.86
+Louth,Diseases of the respiratory system,2009,1.02
+Louth,Diseases of the respiratory system,2010,0.73
+Louth,Diseases of the respiratory system,2011,0.77
+Louth,Diseases of the respiratory system,2012,0.89
+Louth,Diseases of the respiratory system,2013,0.77
+Louth,Diseases of the respiratory system,2014,0.81
+Louth,Diseases of the respiratory system,2015,0.87
+Louth,Diseases of the respiratory system,2016,1.04
+Louth,External causes of injury and poisoning,2007,0.56
+Louth,External causes of injury and poisoning,2008,0.44
+Louth,External causes of injury and poisoning,2009,0.48
+Louth,External causes of injury and poisoning,2010,0.44
+Louth,External causes of injury and poisoning,2011,0.48
+Louth,External causes of injury and poisoning,2012,0.43
+Louth,External causes of injury and poisoning,2013,0.41
+Louth,External causes of injury and poisoning,2014,0.38
+Louth,External causes of injury and poisoning,2015,0.29
+Louth,External causes of injury and poisoning,2016,0.24
+Meath,Neoplasms,2007,1.88
+Meath,Neoplasms,2008,1.45
+Meath,Neoplasms,2009,1.71
+Meath,Neoplasms,2010,1.66
+Meath,Neoplasms,2011,2.01
+Meath,Neoplasms,2012,1.79
+Meath,Neoplasms,2013,1.72
+Meath,Neoplasms,2014,1.89
+Meath,Neoplasms,2015,1.9
+Meath,Neoplasms,2016,1.88
+Meath,Diseases of the circulatory system,2007,2.26
+Meath,Diseases of the circulatory system,2008,1.59
+Meath,Diseases of the circulatory system,2009,2.08
+Meath,Diseases of the circulatory system,2010,1.71
+Meath,Diseases of the circulatory system,2011,1.85
+Meath,Diseases of the circulatory system,2012,2.1
+Meath,Diseases of the circulatory system,2013,1.93
+Meath,Diseases of the circulatory system,2014,1.71
+Meath,Diseases of the circulatory system,2015,1.89
+Meath,Diseases of the circulatory system,2016,1.68
+Meath,Diseases of the respiratory system,2007,0.86
+Meath,Diseases of the respiratory system,2008,0.54
+Meath,Diseases of the respiratory system,2009,0.85
+Meath,Diseases of the respiratory system,2010,0.87
+Meath,Diseases of the respiratory system,2011,0.62
+Meath,Diseases of the respiratory system,2012,0.73
+Meath,Diseases of the respiratory system,2013,0.85
+Meath,Diseases of the respiratory system,2014,0.81
+Meath,Diseases of the respiratory system,2015,0.87
+Meath,Diseases of the respiratory system,2016,0.83
+Meath,External causes of injury and poisoning,2007,0.31
+Meath,External causes of injury and poisoning,2008,0.38
+Meath,External causes of injury and poisoning,2009,0.36
+Meath,External causes of injury and poisoning,2010,0.24
+Meath,External causes of injury and poisoning,2011,0.23
+Meath,External causes of injury and poisoning,2012,0.33
+Meath,External causes of injury and poisoning,2013,0.26
+Meath,External causes of injury and poisoning,2014,0.27
+Meath,External causes of injury and poisoning,2015,0.3
+Meath,External causes of injury and poisoning,2016,0.22
+Offaly,Neoplasms,2007,2.05
+Offaly,Neoplasms,2008,1.77
+Offaly,Neoplasms,2009,1.94
+Offaly,Neoplasms,2010,1.33
+Offaly,Neoplasms,2011,1.72
+Offaly,Neoplasms,2012,1.87
+Offaly,Neoplasms,2013,1.63
+Offaly,Neoplasms,2014,1.87
+Offaly,Neoplasms,2015,1.95
+Offaly,Neoplasms,2016,1.83
+Offaly,Diseases of the circulatory system,2007,2.25
+Offaly,Diseases of the circulatory system,2008,2.42
+Offaly,Diseases of the circulatory system,2009,2.2
+Offaly,Diseases of the circulatory system,2010,2.08
+Offaly,Diseases of the circulatory system,2011,2.15
+Offaly,Diseases of the circulatory system,2012,1.91
+Offaly,Diseases of the circulatory system,2013,2.21
+Offaly,Diseases of the circulatory system,2014,1.95
+Offaly,Diseases of the circulatory system,2015,1.95
+Offaly,Diseases of the circulatory system,2016,1.86
+Offaly,Diseases of the respiratory system,2007,0.77
+Offaly,Diseases of the respiratory system,2008,0.92
+Offaly,Diseases of the respiratory system,2009,0.89
+Offaly,Diseases of the respiratory system,2010,0.85
+Offaly,Diseases of the respiratory system,2011,0.8
+Offaly,Diseases of the respiratory system,2012,0.71
+Offaly,Diseases of the respiratory system,2013,0.97
+Offaly,Diseases of the respiratory system,2014,0.79
+Offaly,Diseases of the respiratory system,2015,0.77
+Offaly,Diseases of the respiratory system,2016,0.87
+Offaly,External causes of injury and poisoning,2007,0.33
+Offaly,External causes of injury and poisoning,2008,0.41
+Offaly,External causes of injury and poisoning,2009,0.37
+Offaly,External causes of injury and poisoning,2010,0.3
+Offaly,External causes of injury and poisoning,2011,0.32
+Offaly,External causes of injury and poisoning,2012,0.35
+Offaly,External causes of injury and poisoning,2013,0.28
+Offaly,External causes of injury and poisoning,2014,0.27
+Offaly,External causes of injury and poisoning,2015,0.3
+Offaly,External causes of injury and poisoning,2016,0.33
+Westmeath,Neoplasms,2007,1.86
+Westmeath,Neoplasms,2008,1.87
+Westmeath,Neoplasms,2009,1.77
+Westmeath,Neoplasms,2010,1.79
+Westmeath,Neoplasms,2011,2.13
+Westmeath,Neoplasms,2012,1.99
+Westmeath,Neoplasms,2013,1.89
+Westmeath,Neoplasms,2014,2.05
+Westmeath,Neoplasms,2015,2.07
+Westmeath,Neoplasms,2016,2.02
+Westmeath,Diseases of the circulatory system,2007,2.35
+Westmeath,Diseases of the circulatory system,2008,2.48
+Westmeath,Diseases of the circulatory system,2009,2.23
+Westmeath,Diseases of the circulatory system,2010,2.27
+Westmeath,Diseases of the circulatory system,2011,2.1
+Westmeath,Diseases of the circulatory system,2012,2.51
+Westmeath,Diseases of the circulatory system,2013,2.48
+Westmeath,Diseases of the circulatory system,2014,2.39
+Westmeath,Diseases of the circulatory system,2015,1.86
+Westmeath,Diseases of the circulatory system,2016,2.14
+Westmeath,Diseases of the respiratory system,2007,0.71
+Westmeath,Diseases of the respiratory system,2008,0.8
+Westmeath,Diseases of the respiratory system,2009,0.81
+Westmeath,Diseases of the respiratory system,2010,0.71
+Westmeath,Diseases of the respiratory system,2011,0.78
+Westmeath,Diseases of the respiratory system,2012,0.8
+Westmeath,Diseases of the respiratory system,2013,0.92
+Westmeath,Diseases of the respiratory system,2014,0.87
+Westmeath,Diseases of the respiratory system,2015,0.87
+Westmeath,Diseases of the respiratory system,2016,0.93
+Westmeath,External causes of injury and poisoning,2007,0.47
+Westmeath,External causes of injury and poisoning,2008,0.34
+Westmeath,External causes of injury and poisoning,2009,0.39
+Westmeath,External causes of injury and poisoning,2010,0.42
+Westmeath,External causes of injury and poisoning,2011,0.34
+Westmeath,External causes of injury and poisoning,2012,0.26
+Westmeath,External causes of injury and poisoning,2013,0.36
+Westmeath,External causes of injury and poisoning,2014,0.33
+Westmeath,External causes of injury and poisoning,2015,0.19
+Westmeath,External causes of injury and poisoning,2016,0.36
+Wexford,Neoplasms,2007,1.79
+Wexford,Neoplasms,2008,2.08
+Wexford,Neoplasms,2009,2.12
+Wexford,Neoplasms,2010,1.95
+Wexford,Neoplasms,2011,1.94
+Wexford,Neoplasms,2012,1.86
+Wexford,Neoplasms,2013,1.95
+Wexford,Neoplasms,2014,2.28
+Wexford,Neoplasms,2015,1.91
+Wexford,Neoplasms,2016,2.03
+Wexford,Diseases of the circulatory system,2007,2.35
+Wexford,Diseases of the circulatory system,2008,2.37
+Wexford,Diseases of the circulatory system,2009,2.29
+Wexford,Diseases of the circulatory system,2010,2.35
+Wexford,Diseases of the circulatory system,2011,2.11
+Wexford,Diseases of the circulatory system,2012,2.14
+Wexford,Diseases of the circulatory system,2013,2.25
+Wexford,Diseases of the circulatory system,2014,2.03
+Wexford,Diseases of the circulatory system,2015,2.04
+Wexford,Diseases of the circulatory system,2016,2.29
+Wexford,Diseases of the respiratory system,2007,0.75
+Wexford,Diseases of the respiratory system,2008,0.76
+Wexford,Diseases of the respiratory system,2009,0.94
+Wexford,Diseases of the respiratory system,2010,0.88
+Wexford,Diseases of the respiratory system,2011,0.85
+Wexford,Diseases of the respiratory system,2012,0.8
+Wexford,Diseases of the respiratory system,2013,0.73
+Wexford,Diseases of the respiratory system,2014,0.88
+Wexford,Diseases of the respiratory system,2015,0.82
+Wexford,Diseases of the respiratory system,2016,0.85
+Wexford,External causes of injury and poisoning,2007,0.47
+Wexford,External causes of injury and poisoning,2008,0.45
+Wexford,External causes of injury and poisoning,2009,0.32
+Wexford,External causes of injury and poisoning,2010,0.35
+Wexford,External causes of injury and poisoning,2011,0.42
+Wexford,External causes of injury and poisoning,2012,0.39
+Wexford,External causes of injury and poisoning,2013,0.3
+Wexford,External causes of injury and poisoning,2014,0.39
+Wexford,External causes of injury and poisoning,2015,0.32
+Wexford,External causes of injury and poisoning,2016,0.26
+Wicklow,Neoplasms,2007,1.91
+Wicklow,Neoplasms,2008,1.72
+Wicklow,Neoplasms,2009,1.98
+Wicklow,Neoplasms,2010,1.77
+Wicklow,Neoplasms,2011,1.84
+Wicklow,Neoplasms,2012,1.89
+Wicklow,Neoplasms,2013,1.95
+Wicklow,Neoplasms,2014,1.98
+Wicklow,Neoplasms,2015,1.73
+Wicklow,Neoplasms,2016,2.16
+Wicklow,Diseases of the circulatory system,2007,2.34
+Wicklow,Diseases of the circulatory system,2008,1.76
+Wicklow,Diseases of the circulatory system,2009,2.1
+Wicklow,Diseases of the circulatory system,2010,1.84
+Wicklow,Diseases of the circulatory system,2011,2.06
+Wicklow,Diseases of the circulatory system,2012,2.13
+Wicklow,Diseases of the circulatory system,2013,1.82
+Wicklow,Diseases of the circulatory system,2014,1.74
+Wicklow,Diseases of the circulatory system,2015,1.74
+Wicklow,Diseases of the circulatory system,2016,2.01
+Wicklow,Diseases of the respiratory system,2007,0.92
+Wicklow,Diseases of the respiratory system,2008,0.81
+Wicklow,Diseases of the respiratory system,2009,0.94
+Wicklow,Diseases of the respiratory system,2010,0.64
+Wicklow,Diseases of the respiratory system,2011,0.85
+Wicklow,Diseases of the respiratory system,2012,0.82
+Wicklow,Diseases of the respiratory system,2013,0.71
+Wicklow,Diseases of the respiratory system,2014,0.73
+Wicklow,Diseases of the respiratory system,2015,0.98
+Wicklow,Diseases of the respiratory system,2016,0.74
+Wicklow,External causes of injury and poisoning,2007,0.28
+Wicklow,External causes of injury and poisoning,2008,0.34
+Wicklow,External causes of injury and poisoning,2009,0.27
+Wicklow,External causes of injury and poisoning,2010,0.3
+Wicklow,External causes of injury and poisoning,2011,0.28
+Wicklow,External causes of injury and poisoning,2012,0.23
+Wicklow,External causes of injury and poisoning,2013,0.19
+Wicklow,External causes of injury and poisoning,2014,0.3
+Wicklow,External causes of injury and poisoning,2015,0.26
+Wicklow,External causes of injury and poisoning,2016,0.14
+Clare,Neoplasms,2007,1.56
+Clare,Neoplasms,2008,1.97
+Clare,Neoplasms,2009,1.73
+Clare,Neoplasms,2010,1.83
+Clare,Neoplasms,2011,1.75
+Clare,Neoplasms,2012,1.62
+Clare,Neoplasms,2013,1.83
+Clare,Neoplasms,2014,2.06
+Clare,Neoplasms,2015,2.02
+Clare,Neoplasms,2016,2.08
+Clare,Diseases of the circulatory system,2007,2.18
+Clare,Diseases of the circulatory system,2008,2.51
+Clare,Diseases of the circulatory system,2009,2.28
+Clare,Diseases of the circulatory system,2010,2.5
+Clare,Diseases of the circulatory system,2011,2.06
+Clare,Diseases of the circulatory system,2012,2.2
+Clare,Diseases of the circulatory system,2013,2.33
+Clare,Diseases of the circulatory system,2014,2.23
+Clare,Diseases of the circulatory system,2015,2.36
+Clare,Diseases of the circulatory system,2016,2.22
+Clare,Diseases of the respiratory system,2007,0.88
+Clare,Diseases of the respiratory system,2008,0.95
+Clare,Diseases of the respiratory system,2009,0.86
+Clare,Diseases of the respiratory system,2010,0.67
+Clare,Diseases of the respiratory system,2011,0.83
+Clare,Diseases of the respiratory system,2012,0.7
+Clare,Diseases of the respiratory system,2013,0.77
+Clare,Diseases of the respiratory system,2014,0.88
+Clare,Diseases of the respiratory system,2015,0.82
+Clare,Diseases of the respiratory system,2016,1.13
+Clare,External causes of injury and poisoning,2007,0.47
+Clare,External causes of injury and poisoning,2008,0.41
+Clare,External causes of injury and poisoning,2009,0.35
+Clare,External causes of injury and poisoning,2010,0.33
+Clare,External causes of injury and poisoning,2011,0.32
+Clare,External causes of injury and poisoning,2012,0.34
+Clare,External causes of injury and poisoning,2013,0.4
+Clare,External causes of injury and poisoning,2014,0.3
+Clare,External causes of injury and poisoning,2015,0.4
+Clare,External causes of injury and poisoning,2016,0.31
+Cork City,Neoplasms,2007,2.1
+Cork City,Neoplasms,2008,2.48
+Cork City,Neoplasms,2009,2.25
+Cork City,Neoplasms,2010,2.18
+Cork City,Neoplasms,2011,2.15
+Cork City,Neoplasms,2012,2.45
+Cork City,Neoplasms,2013,2.21
+Cork City,Neoplasms,2014,2.03
+Cork City,Neoplasms,2015,2.37
+Cork City,Neoplasms,2016,2.29
+Cork City,Diseases of the circulatory system,2007,2.7
+Cork City,Diseases of the circulatory system,2008,3.08
+Cork City,Diseases of the circulatory system,2009,2.28
+Cork City,Diseases of the circulatory system,2010,2.38
+Cork City,Diseases of the circulatory system,2011,2.31
+Cork City,Diseases of the circulatory system,2012,2.47
+Cork City,Diseases of the circulatory system,2013,2.29
+Cork City,Diseases of the circulatory system,2014,2.14
+Cork City,Diseases of the circulatory system,2015,2.35
+Cork City,Diseases of the circulatory system,2016,2.32
+Cork City,Diseases of the respiratory system,2007,0.95
+Cork City,Diseases of the respiratory system,2008,0.85
+Cork City,Diseases of the respiratory system,2009,0.9
+Cork City,Diseases of the respiratory system,2010,0.84
+Cork City,Diseases of the respiratory system,2011,0.67
+Cork City,Diseases of the respiratory system,2012,0.78
+Cork City,Diseases of the respiratory system,2013,0.89
+Cork City,Diseases of the respiratory system,2014,0.79
+Cork City,Diseases of the respiratory system,2015,0.77
+Cork City,Diseases of the respiratory system,2016,0.77
+Cork City,External causes of injury and poisoning,2007,0.69
+Cork City,External causes of injury and poisoning,2008,0.6
+Cork City,External causes of injury and poisoning,2009,0.59
+Cork City,External causes of injury and poisoning,2010,0.68
+Cork City,External causes of injury and poisoning,2011,0.57
+Cork City,External causes of injury and poisoning,2012,0.75
+Cork City,External causes of injury and poisoning,2013,0.44
+Cork City,External causes of injury and poisoning,2014,0.51
+Cork City,External causes of injury and poisoning,2015,0.53
+Cork City,External causes of injury and poisoning,2016,0.59
+Cork County,Neoplasms,2007,1.73
+Cork County,Neoplasms,2008,1.64
+Cork County,Neoplasms,2009,1.71
+Cork County,Neoplasms,2010,1.69
+Cork County,Neoplasms,2011,1.84
+Cork County,Neoplasms,2012,1.77
+Cork County,Neoplasms,2013,1.88
+Cork County,Neoplasms,2014,1.82
+Cork County,Neoplasms,2015,1.76
+Cork County,Neoplasms,2016,1.88
+Cork County,Diseases of the circulatory system,2007,2.2
+Cork County,Diseases of the circulatory system,2008,2.15
+Cork County,Diseases of the circulatory system,2009,2.04
+Cork County,Diseases of the circulatory system,2010,1.88
+Cork County,Diseases of the circulatory system,2011,1.88
+Cork County,Diseases of the circulatory system,2012,2.01
+Cork County,Diseases of the circulatory system,2013,2.02
+Cork County,Diseases of the circulatory system,2014,1.98
+Cork County,Diseases of the circulatory system,2015,1.96
+Cork County,Diseases of the circulatory system,2016,2.11
+Cork County,Diseases of the respiratory system,2007,0.61
+Cork County,Diseases of the respiratory system,2008,0.6
+Cork County,Diseases of the respiratory system,2009,0.63
+Cork County,Diseases of the respiratory system,2010,0.48
+Cork County,Diseases of the respiratory system,2011,0.6
+Cork County,Diseases of the respiratory system,2012,0.58
+Cork County,Diseases of the respiratory system,2013,0.63
+Cork County,Diseases of the respiratory system,2014,0.63
+Cork County,Diseases of the respiratory system,2015,0.73
+Cork County,Diseases of the respiratory system,2016,0.75
+Cork County,External causes of injury and poisoning,2007,0.38
+Cork County,External causes of injury and poisoning,2008,0.39
+Cork County,External causes of injury and poisoning,2009,0.41
+Cork County,External causes of injury and poisoning,2010,0.36
+Cork County,External causes of injury and poisoning,2011,0.42
+Cork County,External causes of injury and poisoning,2012,0.31
+Cork County,External causes of injury and poisoning,2013,0.32
+Cork County,External causes of injury and poisoning,2014,0.36
+Cork County,External causes of injury and poisoning,2015,0.31
+Cork County,External causes of injury and poisoning,2016,0.34
+Kerry,Neoplasms,2007,1.77
+Kerry,Neoplasms,2008,2.22
+Kerry,Neoplasms,2009,1.65
+Kerry,Neoplasms,2010,1.89
+Kerry,Neoplasms,2011,1.81
+Kerry,Neoplasms,2012,1.96
+Kerry,Neoplasms,2013,2.0
+Kerry,Neoplasms,2014,1.99
+Kerry,Neoplasms,2015,1.92
+Kerry,Neoplasms,2016,2.03
+Kerry,Diseases of the circulatory system,2007,2.53
+Kerry,Diseases of the circulatory system,2008,2.96
+Kerry,Diseases of the circulatory system,2009,2.42
+Kerry,Diseases of the circulatory system,2010,2.33
+Kerry,Diseases of the circulatory system,2011,2.32
+Kerry,Diseases of the circulatory system,2012,2.2
+Kerry,Diseases of the circulatory system,2013,2.32
+Kerry,Diseases of the circulatory system,2014,2.3
+Kerry,Diseases of the circulatory system,2015,2.11
+Kerry,Diseases of the circulatory system,2016,2.18
+Kerry,Diseases of the respiratory system,2007,0.74
+Kerry,Diseases of the respiratory system,2008,1.03
+Kerry,Diseases of the respiratory system,2009,0.75
+Kerry,Diseases of the respiratory system,2010,0.78
+Kerry,Diseases of the respiratory system,2011,0.83
+Kerry,Diseases of the respiratory system,2012,0.78
+Kerry,Diseases of the respiratory system,2013,0.78
+Kerry,Diseases of the respiratory system,2014,0.74
+Kerry,Diseases of the respiratory system,2015,0.87
+Kerry,Diseases of the respiratory system,2016,0.91
+Kerry,External causes of injury and poisoning,2007,0.39
+Kerry,External causes of injury and poisoning,2008,0.41
+Kerry,External causes of injury and poisoning,2009,0.43
+Kerry,External causes of injury and poisoning,2010,0.42
+Kerry,External causes of injury and poisoning,2011,0.49
+Kerry,External causes of injury and poisoning,2012,0.44
+Kerry,External causes of injury and poisoning,2013,0.37
+Kerry,External causes of injury and poisoning,2014,0.4
+Kerry,External causes of injury and poisoning,2015,0.34
+Kerry,External causes of injury and poisoning,2016,0.36
+Limerick City,Neoplasms,2007,2.11
+Limerick City,Neoplasms,2008,2.31
+Limerick City,Neoplasms,2009,2.12
+Limerick City,Neoplasms,2010,2.07
+Limerick City,Neoplasms,2011,2.5
+Limerick City,Neoplasms,2012,2.38
+Limerick City,Neoplasms,2013,2.24
+Limerick City,Neoplasms,2014,2.47
+Limerick City,Neoplasms,2015,2.4
+Limerick City,Neoplasms,2016,2.05
+Limerick City,Diseases of the circulatory system,2007,2.74
+Limerick City,Diseases of the circulatory system,2008,2.73
+Limerick City,Diseases of the circulatory system,2009,2.63
+Limerick City,Diseases of the circulatory system,2010,2.67
+Limerick City,Diseases of the circulatory system,2011,2.67
+Limerick City,Diseases of the circulatory system,2012,2.8
+Limerick City,Diseases of the circulatory system,2013,2.75
+Limerick City,Diseases of the circulatory system,2014,2.57
+Limerick City,Diseases of the circulatory system,2015,2.46
+Limerick City,Diseases of the circulatory system,2016,2.5
+Limerick City,Diseases of the respiratory system,2007,1.05
+Limerick City,Diseases of the respiratory system,2008,1.01
+Limerick City,Diseases of the respiratory system,2009,1.03
+Limerick City,Diseases of the respiratory system,2010,0.9
+Limerick City,Diseases of the respiratory system,2011,0.98
+Limerick City,Diseases of the respiratory system,2012,1.08
+Limerick City,Diseases of the respiratory system,2013,0.99
+Limerick City,Diseases of the respiratory system,2014,1.02
+Limerick City,Diseases of the respiratory system,2015,1.48
+Limerick City,Diseases of the respiratory system,2016,1.38
+Limerick City,External causes of injury and poisoning,2007,0.52
+Limerick City,External causes of injury and poisoning,2008,0.56
+Limerick City,External causes of injury and poisoning,2009,0.67
+Limerick City,External causes of injury and poisoning,2010,0.58
+Limerick City,External causes of injury and poisoning,2011,0.58
+Limerick City,External causes of injury and poisoning,2012,0.53
+Limerick City,External causes of injury and poisoning,2013,0.6
+Limerick City,External causes of injury and poisoning,2014,0.71
+Limerick City,External causes of injury and poisoning,2015,0.28
+Limerick City,External causes of injury and poisoning,2016,0.41
+Limerick County,Neoplasms,2007,2.03
+Limerick County,Neoplasms,2008,1.82
+Limerick County,Neoplasms,2009,1.99
+Limerick County,Neoplasms,2010,1.68
+Limerick County,Neoplasms,2011,2.04
+Limerick County,Neoplasms,2012,1.86
+Limerick County,Neoplasms,2013,1.79
+Limerick County,Neoplasms,2014,2.07
+Limerick County,Neoplasms,2015,1.63
+Limerick County,Neoplasms,2016,2.06
+Limerick County,Diseases of the circulatory system,2007,2.62
+Limerick County,Diseases of the circulatory system,2008,2.31
+Limerick County,Diseases of the circulatory system,2009,2.33
+Limerick County,Diseases of the circulatory system,2010,2.4
+Limerick County,Diseases of the circulatory system,2011,2.13
+Limerick County,Diseases of the circulatory system,2012,2.32
+Limerick County,Diseases of the circulatory system,2013,2.38
+Limerick County,Diseases of the circulatory system,2014,2.26
+Limerick County,Diseases of the circulatory system,2015,2.24
+Limerick County,Diseases of the circulatory system,2016,2.14
+Limerick County,Diseases of the respiratory system,2007,0.99
+Limerick County,Diseases of the respiratory system,2008,1.01
+Limerick County,Diseases of the respiratory system,2009,0.99
+Limerick County,Diseases of the respiratory system,2010,0.93
+Limerick County,Diseases of the respiratory system,2011,0.88
+Limerick County,Diseases of the respiratory system,2012,0.77
+Limerick County,Diseases of the respiratory system,2013,0.84
+Limerick County,Diseases of the respiratory system,2014,0.91
+Limerick County,Diseases of the respiratory system,2015,0.95
+Limerick County,Diseases of the respiratory system,2016,0.98
+Limerick County,External causes of injury and poisoning,2007,0.39
+Limerick County,External causes of injury and poisoning,2008,0.3
+Limerick County,External causes of injury and poisoning,2009,0.4
+Limerick County,External causes of injury and poisoning,2010,0.43
+Limerick County,External causes of injury and poisoning,2011,0.37
+Limerick County,External causes of injury and poisoning,2012,0.35
+Limerick County,External causes of injury and poisoning,2013,0.26
+Limerick County,External causes of injury and poisoning,2014,0.29
+Limerick County,External causes of injury and poisoning,2015,0.27
+Limerick County,External causes of injury and poisoning,2016,0.28
+North Tipperary,Neoplasms,2007,2.16
+North Tipperary,Neoplasms,2008,2.53
+North Tipperary,Neoplasms,2009,2.1
+North Tipperary,Neoplasms,2010,2.4
+North Tipperary,Neoplasms,2011,2.13
+North Tipperary,Neoplasms,2012,2.03
+North Tipperary,Neoplasms,2013,2.09
+North Tipperary,Neoplasms,2014,2.37
+North Tipperary,Neoplasms,2015,2.05
+North Tipperary,Neoplasms,2016,2.23
+North Tipperary,Diseases of the circulatory system,2007,3.37
+North Tipperary,Diseases of the circulatory system,2008,3.67
+North Tipperary,Diseases of the circulatory system,2009,3.05
+North Tipperary,Diseases of the circulatory system,2010,2.98
+North Tipperary,Diseases of the circulatory system,2011,2.72
+North Tipperary,Diseases of the circulatory system,2012,2.46
+North Tipperary,Diseases of the circulatory system,2013,2.25
+North Tipperary,Diseases of the circulatory system,2014,2.29
+North Tipperary,Diseases of the circulatory system,2015,2.81
+North Tipperary,Diseases of the circulatory system,2016,2.64
+North Tipperary,Diseases of the respiratory system,2007,0.71
+North Tipperary,Diseases of the respiratory system,2008,0.81
+North Tipperary,Diseases of the respiratory system,2009,0.67
+North Tipperary,Diseases of the respiratory system,2010,0.6
+North Tipperary,Diseases of the respiratory system,2011,0.58
+North Tipperary,Diseases of the respiratory system,2012,0.88
+North Tipperary,Diseases of the respiratory system,2013,0.75
+North Tipperary,Diseases of the respiratory system,2014,0.67
+North Tipperary,Diseases of the respiratory system,2015,0.84
+North Tipperary,Diseases of the respiratory system,2016,0.89
+North Tipperary,External causes of injury and poisoning,2007,0.44
+North Tipperary,External causes of injury and poisoning,2008,0.52
+North Tipperary,External causes of injury and poisoning,2009,0.51
+North Tipperary,External causes of injury and poisoning,2010,0.35
+North Tipperary,External causes of injury and poisoning,2011,0.4
+North Tipperary,External causes of injury and poisoning,2012,0.2
+North Tipperary,External causes of injury and poisoning,2013,0.53
+North Tipperary,External causes of injury and poisoning,2014,0.38
+North Tipperary,External causes of injury and poisoning,2015,0.33
+North Tipperary,External causes of injury and poisoning,2016,0.4
+South Tipperary,Neoplasms,2007,1.87
+South Tipperary,Neoplasms,2008,2.26
+South Tipperary,Neoplasms,2009,1.85
+South Tipperary,Neoplasms,2010,1.85
+South Tipperary,Neoplasms,2011,1.78
+South Tipperary,Neoplasms,2012,1.73
+South Tipperary,Neoplasms,2013,2.15
+South Tipperary,Neoplasms,2014,1.97
+South Tipperary,Neoplasms,2015,1.96
+South Tipperary,Neoplasms,2016,2.15
+South Tipperary,Diseases of the circulatory system,2007,2.14
+South Tipperary,Diseases of the circulatory system,2008,2.44
+South Tipperary,Diseases of the circulatory system,2009,1.97
+South Tipperary,Diseases of the circulatory system,2010,2.38
+South Tipperary,Diseases of the circulatory system,2011,2.03
+South Tipperary,Diseases of the circulatory system,2012,2.16
+South Tipperary,Diseases of the circulatory system,2013,2.32
+South Tipperary,Diseases of the circulatory system,2014,1.82
+South Tipperary,Diseases of the circulatory system,2015,1.95
+South Tipperary,Diseases of the circulatory system,2016,2.19
+South Tipperary,Diseases of the respiratory system,2007,0.64
+South Tipperary,Diseases of the respiratory system,2008,0.78
+South Tipperary,Diseases of the respiratory system,2009,0.57
+South Tipperary,Diseases of the respiratory system,2010,0.63
+South Tipperary,Diseases of the respiratory system,2011,0.68
+South Tipperary,Diseases of the respiratory system,2012,0.68
+South Tipperary,Diseases of the respiratory system,2013,0.97
+South Tipperary,Diseases of the respiratory system,2014,0.86
+South Tipperary,Diseases of the respiratory system,2015,0.76
+South Tipperary,Diseases of the respiratory system,2016,0.92
+South Tipperary,External causes of injury and poisoning,2007,0.33
+South Tipperary,External causes of injury and poisoning,2008,0.38
+South Tipperary,External causes of injury and poisoning,2009,0.41
+South Tipperary,External causes of injury and poisoning,2010,0.38
+South Tipperary,External causes of injury and poisoning,2011,0.39
+South Tipperary,External causes of injury and poisoning,2012,0.38
+South Tipperary,External causes of injury and poisoning,2013,0.31
+South Tipperary,External causes of injury and poisoning,2014,0.4
+South Tipperary,External causes of injury and poisoning,2015,0.45
+South Tipperary,External causes of injury and poisoning,2016,0.33
+Waterford City,Neoplasms,2007,1.89
+Waterford City,Neoplasms,2008,2.14
+Waterford City,Neoplasms,2009,1.92
+Waterford City,Neoplasms,2010,1.94
+Waterford City,Neoplasms,2011,2.3
+Waterford City,Neoplasms,2012,1.82
+Waterford City,Neoplasms,2013,2.34
+Waterford City,Neoplasms,2014,2.73
+Waterford City,Neoplasms,2015,2.53
+Waterford City,Neoplasms,2016,2.05
+Waterford City,Diseases of the circulatory system,2007,1.98
+Waterford City,Diseases of the circulatory system,2008,1.84
+Waterford City,Diseases of the circulatory system,2009,2.01
+Waterford City,Diseases of the circulatory system,2010,1.78
+Waterford City,Diseases of the circulatory system,2011,2.12
+Waterford City,Diseases of the circulatory system,2012,1.85
+Waterford City,Diseases of the circulatory system,2013,2.33
+Waterford City,Diseases of the circulatory system,2014,1.97
+Waterford City,Diseases of the circulatory system,2015,2.22
+Waterford City,Diseases of the circulatory system,2016,2.1
+Waterford City,Diseases of the respiratory system,2007,0.79
+Waterford City,Diseases of the respiratory system,2008,0.69
+Waterford City,Diseases of the respiratory system,2009,0.85
+Waterford City,Diseases of the respiratory system,2010,0.9
+Waterford City,Diseases of the respiratory system,2011,0.73
+Waterford City,Diseases of the respiratory system,2012,0.79
+Waterford City,Diseases of the respiratory system,2013,0.55
+Waterford City,Diseases of the respiratory system,2014,0.72
+Waterford City,Diseases of the respiratory system,2015,0.69
+Waterford City,Diseases of the respiratory system,2016,0.82
+Waterford City,External causes of injury and poisoning,2007,0.47
+Waterford City,External causes of injury and poisoning,2008,0.23
+Waterford City,External causes of injury and poisoning,2009,0.61
+Waterford City,External causes of injury and poisoning,2010,0.34
+Waterford City,External causes of injury and poisoning,2011,0.34
+Waterford City,External causes of injury and poisoning,2012,0.43
+Waterford City,External causes of injury and poisoning,2013,0.26
+Waterford City,External causes of injury and poisoning,2014,0.25
+Waterford City,External causes of injury and poisoning,2015,0.38
+Waterford City,External causes of injury and poisoning,2016,0.33
+Waterford County,Neoplasms,2007,1.93
+Waterford County,Neoplasms,2008,2.37
+Waterford County,Neoplasms,2009,2.21
+Waterford County,Neoplasms,2010,2.22
+Waterford County,Neoplasms,2011,1.88
+Waterford County,Neoplasms,2012,2.07
+Waterford County,Neoplasms,2013,2.32
+Waterford County,Neoplasms,2014,2.38
+Waterford County,Neoplasms,2015,1.78
+Waterford County,Neoplasms,2016,1.9
+Waterford County,Diseases of the circulatory system,2007,2.17
+Waterford County,Diseases of the circulatory system,2008,2.31
+Waterford County,Diseases of the circulatory system,2009,2.03
+Waterford County,Diseases of the circulatory system,2010,2.07
+Waterford County,Diseases of the circulatory system,2011,2.09
+Waterford County,Diseases of the circulatory system,2012,2.24
+Waterford County,Diseases of the circulatory system,2013,2.09
+Waterford County,Diseases of the circulatory system,2014,1.94
+Waterford County,Diseases of the circulatory system,2015,1.83
+Waterford County,Diseases of the circulatory system,2016,1.87
+Waterford County,Diseases of the respiratory system,2007,0.82
+Waterford County,Diseases of the respiratory system,2008,0.88
+Waterford County,Diseases of the respiratory system,2009,1.04
+Waterford County,Diseases of the respiratory system,2010,0.62
+Waterford County,Diseases of the respiratory system,2011,0.62
+Waterford County,Diseases of the respiratory system,2012,0.83
+Waterford County,Diseases of the respiratory system,2013,0.51
+Waterford County,Diseases of the respiratory system,2014,0.73
+Waterford County,Diseases of the respiratory system,2015,0.71
+Waterford County,Diseases of the respiratory system,2016,0.79
+Waterford County,External causes of injury and poisoning,2007,0.35
+Waterford County,External causes of injury and poisoning,2008,0.43
+Waterford County,External causes of injury and poisoning,2009,0.27
+Waterford County,External causes of injury and poisoning,2010,0.41
+Waterford County,External causes of injury and poisoning,2011,0.37
+Waterford County,External causes of injury and poisoning,2012,0.31
+Waterford County,External causes of injury and poisoning,2013,0.26
+Waterford County,External causes of injury and poisoning,2014,0.3
+Waterford County,External causes of injury and poisoning,2015,0.27
+Waterford County,External causes of injury and poisoning,2016,0.34
+Galway City,Neoplasms,2007,1.85
+Galway City,Neoplasms,2008,1.44
+Galway City,Neoplasms,2009,0.93
+Galway City,Neoplasms,2010,1.41
+Galway City,Neoplasms,2011,2.06
+Galway City,Neoplasms,2012,1.26
+Galway City,Neoplasms,2013,1.57
+Galway City,Neoplasms,2014,1.92
+Galway City,Neoplasms,2015,1.99
+Galway City,Neoplasms,2016,1.88
+Galway City,Diseases of the circulatory system,2007,1.94
+Galway City,Diseases of the circulatory system,2008,1.28
+Galway City,Diseases of the circulatory system,2009,1.12
+Galway City,Diseases of the circulatory system,2010,1.63
+Galway City,Diseases of the circulatory system,2011,1.77
+Galway City,Diseases of the circulatory system,2012,1.46
+Galway City,Diseases of the circulatory system,2013,1.64
+Galway City,Diseases of the circulatory system,2014,1.69
+Galway City,Diseases of the circulatory system,2015,1.87
+Galway City,Diseases of the circulatory system,2016,1.4
+Galway City,Diseases of the respiratory system,2007,0.9
+Galway City,Diseases of the respiratory system,2008,0.57
+Galway City,Diseases of the respiratory system,2009,0.35
+Galway City,Diseases of the respiratory system,2010,0.46
+Galway City,Diseases of the respiratory system,2011,0.64
+Galway City,Diseases of the respiratory system,2012,0.44
+Galway City,Diseases of the respiratory system,2013,0.71
+Galway City,Diseases of the respiratory system,2014,0.73
+Galway City,Diseases of the respiratory system,2015,0.67
+Galway City,Diseases of the respiratory system,2016,0.63
+Galway City,External causes of injury and poisoning,2007,0.49
+Galway City,External causes of injury and poisoning,2008,0.37
+Galway City,External causes of injury and poisoning,2009,0.23
+Galway City,External causes of injury and poisoning,2010,0.3
+Galway City,External causes of injury and poisoning,2011,0.37
+Galway City,External causes of injury and poisoning,2012,0.21
+Galway City,External causes of injury and poisoning,2013,0.29
+Galway City,External causes of injury and poisoning,2014,0.47
+Galway City,External causes of injury and poisoning,2015,0.34
+Galway City,External causes of injury and poisoning,2016,0.42
+Galway County,Neoplasms,2007,1.85
+Galway County,Neoplasms,2008,2.0
+Galway County,Neoplasms,2009,1.98
+Galway County,Neoplasms,2010,1.77
+Galway County,Neoplasms,2011,1.77
+Galway County,Neoplasms,2012,2.01
+Galway County,Neoplasms,2013,1.78
+Galway County,Neoplasms,2014,2.0
+Galway County,Neoplasms,2015,1.81
+Galway County,Neoplasms,2016,1.91
+Galway County,Diseases of the circulatory system,2007,2.08
+Galway County,Diseases of the circulatory system,2008,2.65
+Galway County,Diseases of the circulatory system,2009,2.37
+Galway County,Diseases of the circulatory system,2010,2.09
+Galway County,Diseases of the circulatory system,2011,1.77
+Galway County,Diseases of the circulatory system,2012,2.03
+Galway County,Diseases of the circulatory system,2013,2.01
+Galway County,Diseases of the circulatory system,2014,1.81
+Galway County,Diseases of the circulatory system,2015,1.86
+Galway County,Diseases of the circulatory system,2016,1.91
+Galway County,Diseases of the respiratory system,2007,0.64
+Galway County,Diseases of the respiratory system,2008,0.99
+Galway County,Diseases of the respiratory system,2009,0.8
+Galway County,Diseases of the respiratory system,2010,0.67
+Galway County,Diseases of the respiratory system,2011,0.77
+Galway County,Diseases of the respiratory system,2012,0.76
+Galway County,Diseases of the respiratory system,2013,0.76
+Galway County,Diseases of the respiratory system,2014,0.73
+Galway County,Diseases of the respiratory system,2015,0.88
+Galway County,Diseases of the respiratory system,2016,0.68
+Galway County,External causes of injury and poisoning,2007,0.33
+Galway County,External causes of injury and poisoning,2008,0.4
+Galway County,External causes of injury and poisoning,2009,0.39
+Galway County,External causes of injury and poisoning,2010,0.34
+Galway County,External causes of injury and poisoning,2011,0.41
+Galway County,External causes of injury and poisoning,2012,0.41
+Galway County,External causes of injury and poisoning,2013,0.35
+Galway County,External causes of injury and poisoning,2014,0.38
+Galway County,External causes of injury and poisoning,2015,0.37
+Galway County,External causes of injury and poisoning,2016,0.3
+Leitrim,Neoplasms,2007,1.73
+Leitrim,Neoplasms,2008,2.35
+Leitrim,Neoplasms,2009,2.32
+Leitrim,Neoplasms,2010,2.11
+Leitrim,Neoplasms,2011,2.02
+Leitrim,Neoplasms,2012,1.19
+Leitrim,Neoplasms,2013,2.04
+Leitrim,Neoplasms,2014,1.82
+Leitrim,Neoplasms,2015,2.11
+Leitrim,Neoplasms,2016,2.31
+Leitrim,Diseases of the circulatory system,2007,2.44
+Leitrim,Diseases of the circulatory system,2008,2.82
+Leitrim,Diseases of the circulatory system,2009,2.16
+Leitrim,Diseases of the circulatory system,2010,2.33
+Leitrim,Diseases of the circulatory system,2011,2.24
+Leitrim,Diseases of the circulatory system,2012,2.06
+Leitrim,Diseases of the circulatory system,2013,2.27
+Leitrim,Diseases of the circulatory system,2014,1.99
+Leitrim,Diseases of the circulatory system,2015,2.22
+Leitrim,Diseases of the circulatory system,2016,2.3
+Leitrim,Diseases of the respiratory system,2007,0.92
+Leitrim,Diseases of the respiratory system,2008,1.32
+Leitrim,Diseases of the respiratory system,2009,0.87
+Leitrim,Diseases of the respiratory system,2010,0.82
+Leitrim,Diseases of the respiratory system,2011,1.09
+Leitrim,Diseases of the respiratory system,2012,0.9
+Leitrim,Diseases of the respiratory system,2013,0.58
+Leitrim,Diseases of the respiratory system,2014,0.7
+Leitrim,Diseases of the respiratory system,2015,0.91
+Leitrim,Diseases of the respiratory system,2016,0.85
+Leitrim,External causes of injury and poisoning,2007,0.29
+Leitrim,External causes of injury and poisoning,2008,0.46
+Leitrim,External causes of injury and poisoning,2009,0.34
+Leitrim,External causes of injury and poisoning,2010,0.59
+Leitrim,External causes of injury and poisoning,2011,0.46
+Leitrim,External causes of injury and poisoning,2012,0.53
+Leitrim,External causes of injury and poisoning,2013,0.43
+Leitrim,External causes of injury and poisoning,2014,0.24
+Leitrim,External causes of injury and poisoning,2015,0.33
+Leitrim,External causes of injury and poisoning,2016,0.33
+Mayo,Neoplasms,2007,1.65
+Mayo,Neoplasms,2008,2.6
+Mayo,Neoplasms,2009,1.61
+Mayo,Neoplasms,2010,1.99
+Mayo,Neoplasms,2011,1.82
+Mayo,Neoplasms,2012,1.8
+Mayo,Neoplasms,2013,1.89
+Mayo,Neoplasms,2014,1.97
+Mayo,Neoplasms,2015,1.96
+Mayo,Neoplasms,2016,1.85
+Mayo,Diseases of the circulatory system,2007,2.42
+Mayo,Diseases of the circulatory system,2008,3.31
+Mayo,Diseases of the circulatory system,2009,2.15
+Mayo,Diseases of the circulatory system,2010,2.3
+Mayo,Diseases of the circulatory system,2011,2.18
+Mayo,Diseases of the circulatory system,2012,2.24
+Mayo,Diseases of the circulatory system,2013,2.33
+Mayo,Diseases of the circulatory system,2014,1.86
+Mayo,Diseases of the circulatory system,2015,2.07
+Mayo,Diseases of the circulatory system,2016,2.07
+Mayo,Diseases of the respiratory system,2007,0.7
+Mayo,Diseases of the respiratory system,2008,0.95
+Mayo,Diseases of the respiratory system,2009,0.69
+Mayo,Diseases of the respiratory system,2010,0.96
+Mayo,Diseases of the respiratory system,2011,0.73
+Mayo,Diseases of the respiratory system,2012,0.9
+Mayo,Diseases of the respiratory system,2013,0.98
+Mayo,Diseases of the respiratory system,2014,0.81
+Mayo,Diseases of the respiratory system,2015,0.78
+Mayo,Diseases of the respiratory system,2016,0.95
+Mayo,External causes of injury and poisoning,2007,0.47
+Mayo,External causes of injury and poisoning,2008,0.42
+Mayo,External causes of injury and poisoning,2009,0.41
+Mayo,External causes of injury and poisoning,2010,0.42
+Mayo,External causes of injury and poisoning,2011,0.4
+Mayo,External causes of injury and poisoning,2012,0.45
+Mayo,External causes of injury and poisoning,2013,0.36
+Mayo,External causes of injury and poisoning,2014,0.4
+Mayo,External causes of injury and poisoning,2015,0.32
+Mayo,External causes of injury and poisoning,2016,0.3
+Roscommon,Neoplasms,2007,1.71
+Roscommon,Neoplasms,2008,2.3
+Roscommon,Neoplasms,2009,1.88
+Roscommon,Neoplasms,2010,1.69
+Roscommon,Neoplasms,2011,1.81
+Roscommon,Neoplasms,2012,1.56
+Roscommon,Neoplasms,2013,1.71
+Roscommon,Neoplasms,2014,1.97
+Roscommon,Neoplasms,2015,1.88
+Roscommon,Neoplasms,2016,1.71
+Roscommon,Diseases of the circulatory system,2007,2.3
+Roscommon,Diseases of the circulatory system,2008,3.92
+Roscommon,Diseases of the circulatory system,2009,2.24
+Roscommon,Diseases of the circulatory system,2010,2.09
+Roscommon,Diseases of the circulatory system,2011,2.12
+Roscommon,Diseases of the circulatory system,2012,1.92
+Roscommon,Diseases of the circulatory system,2013,2.21
+Roscommon,Diseases of the circulatory system,2014,1.93
+Roscommon,Diseases of the circulatory system,2015,1.97
+Roscommon,Diseases of the circulatory system,2016,1.79
+Roscommon,Diseases of the respiratory system,2007,0.78
+Roscommon,Diseases of the respiratory system,2008,1.17
+Roscommon,Diseases of the respiratory system,2009,0.75
+Roscommon,Diseases of the respiratory system,2010,0.73
+Roscommon,Diseases of the respiratory system,2011,0.76
+Roscommon,Diseases of the respiratory system,2012,0.76
+Roscommon,Diseases of the respiratory system,2013,0.74
+Roscommon,Diseases of the respiratory system,2014,0.71
+Roscommon,Diseases of the respiratory system,2015,0.86
+Roscommon,Diseases of the respiratory system,2016,0.92
+Roscommon,External causes of injury and poisoning,2007,0.54
+Roscommon,External causes of injury and poisoning,2008,0.42
+Roscommon,External causes of injury and poisoning,2009,0.34
+Roscommon,External causes of injury and poisoning,2010,0.36
+Roscommon,External causes of injury and poisoning,2011,0.22
+Roscommon,External causes of injury and poisoning,2012,0.38
+Roscommon,External causes of injury and poisoning,2013,0.36
+Roscommon,External causes of injury and poisoning,2014,0.42
+Roscommon,External causes of injury and poisoning,2015,0.27
+Roscommon,External causes of injury and poisoning,2016,0.35
+Sligo,Neoplasms,2007,1.95
+Sligo,Neoplasms,2008,1.95
+Sligo,Neoplasms,2009,1.84
+Sligo,Neoplasms,2010,1.51
+Sligo,Neoplasms,2011,2.0
+Sligo,Neoplasms,2012,1.78
+Sligo,Neoplasms,2013,2.06
+Sligo,Neoplasms,2014,1.77
+Sligo,Neoplasms,2015,2.11
+Sligo,Neoplasms,2016,1.88
+Sligo,Diseases of the circulatory system,2007,2.03
+Sligo,Diseases of the circulatory system,2008,3.12
+Sligo,Diseases of the circulatory system,2009,1.83
+Sligo,Diseases of the circulatory system,2010,1.65
+Sligo,Diseases of the circulatory system,2011,1.93
+Sligo,Diseases of the circulatory system,2012,1.77
+Sligo,Diseases of the circulatory system,2013,2.05
+Sligo,Diseases of the circulatory system,2014,1.82
+Sligo,Diseases of the circulatory system,2015,2.12
+Sligo,Diseases of the circulatory system,2016,2.18
+Sligo,Diseases of the respiratory system,2007,0.54
+Sligo,Diseases of the respiratory system,2008,0.8
+Sligo,Diseases of the respiratory system,2009,0.56
+Sligo,Diseases of the respiratory system,2010,0.67
+Sligo,Diseases of the respiratory system,2011,0.64
+Sligo,Diseases of the respiratory system,2012,0.76
+Sligo,Diseases of the respiratory system,2013,0.56
+Sligo,Diseases of the respiratory system,2014,0.78
+Sligo,Diseases of the respiratory system,2015,0.81
+Sligo,Diseases of the respiratory system,2016,0.84
+Sligo,External causes of injury and poisoning,2007,0.39
+Sligo,External causes of injury and poisoning,2008,0.33
+Sligo,External causes of injury and poisoning,2009,0.39
+Sligo,External causes of injury and poisoning,2010,0.27
+Sligo,External causes of injury and poisoning,2011,0.21
+Sligo,External causes of injury and poisoning,2012,0.26
+Sligo,External causes of injury and poisoning,2013,0.3
+Sligo,External causes of injury and poisoning,2014,0.37
+Sligo,External causes of injury and poisoning,2015,0.16
+Sligo,External causes of injury and poisoning,2016,0.2
+Cavan,Neoplasms,2007,1.91
+Cavan,Neoplasms,2008,2.14
+Cavan,Neoplasms,2009,1.65
+Cavan,Neoplasms,2010,2.06
+Cavan,Neoplasms,2011,1.84
+Cavan,Neoplasms,2012,1.66
+Cavan,Neoplasms,2013,1.83
+Cavan,Neoplasms,2014,1.85
+Cavan,Neoplasms,2015,1.87
+Cavan,Neoplasms,2016,2.14
+Cavan,Diseases of the circulatory system,2007,2.52
+Cavan,Diseases of the circulatory system,2008,2.53
+Cavan,Diseases of the circulatory system,2009,2.06
+Cavan,Diseases of the circulatory system,2010,2.23
+Cavan,Diseases of the circulatory system,2011,2.54
+Cavan,Diseases of the circulatory system,2012,2.34
+Cavan,Diseases of the circulatory system,2013,2.05
+Cavan,Diseases of the circulatory system,2014,2.07
+Cavan,Diseases of the circulatory system,2015,2.05
+Cavan,Diseases of the circulatory system,2016,1.96
+Cavan,Diseases of the respiratory system,2007,0.88
+Cavan,Diseases of the respiratory system,2008,0.82
+Cavan,Diseases of the respiratory system,2009,0.77
+Cavan,Diseases of the respiratory system,2010,0.6
+Cavan,Diseases of the respiratory system,2011,0.85
+Cavan,Diseases of the respiratory system,2012,0.65
+Cavan,Diseases of the respiratory system,2013,0.73
+Cavan,Diseases of the respiratory system,2014,0.61
+Cavan,Diseases of the respiratory system,2015,0.86
+Cavan,Diseases of the respiratory system,2016,0.71
+Cavan,External causes of injury and poisoning,2007,0.6
+Cavan,External causes of injury and poisoning,2008,0.51
+Cavan,External causes of injury and poisoning,2009,0.48
+Cavan,External causes of injury and poisoning,2010,0.35
+Cavan,External causes of injury and poisoning,2011,0.49
+Cavan,External causes of injury and poisoning,2012,0.39
+Cavan,External causes of injury and poisoning,2013,0.44
+Cavan,External causes of injury and poisoning,2014,0.5
+Cavan,External causes of injury and poisoning,2015,0.29
+Cavan,External causes of injury and poisoning,2016,0.47
+Donegal,Neoplasms,2007,1.75
+Donegal,Neoplasms,2008,2.07
+Donegal,Neoplasms,2009,1.89
+Donegal,Neoplasms,2010,1.71
+Donegal,Neoplasms,2011,1.79
+Donegal,Neoplasms,2012,1.96
+Donegal,Neoplasms,2013,1.86
+Donegal,Neoplasms,2014,1.86
+Donegal,Neoplasms,2015,1.83
+Donegal,Neoplasms,2016,2.01
+Donegal,Diseases of the circulatory system,2007,2.16
+Donegal,Diseases of the circulatory system,2008,2.44
+Donegal,Diseases of the circulatory system,2009,2.12
+Donegal,Diseases of the circulatory system,2010,2.27
+Donegal,Diseases of the circulatory system,2011,1.88
+Donegal,Diseases of the circulatory system,2012,2.05
+Donegal,Diseases of the circulatory system,2013,2.07
+Donegal,Diseases of the circulatory system,2014,1.99
+Donegal,Diseases of the circulatory system,2015,2.01
+Donegal,Diseases of the circulatory system,2016,1.96
+Donegal,Diseases of the respiratory system,2007,0.69
+Donegal,Diseases of the respiratory system,2008,1.07
+Donegal,Diseases of the respiratory system,2009,0.69
+Donegal,Diseases of the respiratory system,2010,0.74
+Donegal,Diseases of the respiratory system,2011,0.84
+Donegal,Diseases of the respiratory system,2012,0.81
+Donegal,Diseases of the respiratory system,2013,0.65
+Donegal,Diseases of the respiratory system,2014,0.82
+Donegal,Diseases of the respiratory system,2015,0.82
+Donegal,Diseases of the respiratory system,2016,0.71
+Donegal,External causes of injury and poisoning,2007,0.31
+Donegal,External causes of injury and poisoning,2008,0.29
+Donegal,External causes of injury and poisoning,2009,0.3
+Donegal,External causes of injury and poisoning,2010,0.26
+Donegal,External causes of injury and poisoning,2011,0.24
+Donegal,External causes of injury and poisoning,2012,0.28
+Donegal,External causes of injury and poisoning,2013,0.29
+Donegal,External causes of injury and poisoning,2014,0.35
+Donegal,External causes of injury and poisoning,2015,0.32
+Donegal,External causes of injury and poisoning,2016,0.24
+Monaghan,Neoplasms,2007,1.6
+Monaghan,Neoplasms,2008,1.7
+Monaghan,Neoplasms,2009,1.8
+Monaghan,Neoplasms,2010,1.7
+Monaghan,Neoplasms,2011,1.89
+Monaghan,Neoplasms,2012,1.72
+Monaghan,Neoplasms,2013,1.75
+Monaghan,Neoplasms,2014,1.83
+Monaghan,Neoplasms,2015,1.55
+Monaghan,Neoplasms,2016,1.72
+Monaghan,Diseases of the circulatory system,2007,2.55
+Monaghan,Diseases of the circulatory system,2008,2.48
+Monaghan,Diseases of the circulatory system,2009,2.28
+Monaghan,Diseases of the circulatory system,2010,2.21
+Monaghan,Diseases of the circulatory system,2011,1.98
+Monaghan,Diseases of the circulatory system,2012,2.04
+Monaghan,Diseases of the circulatory system,2013,2.08
+Monaghan,Diseases of the circulatory system,2014,2.04
+Monaghan,Diseases of the circulatory system,2015,1.88
+Monaghan,Diseases of the circulatory system,2016,2.24
+Monaghan,Diseases of the respiratory system,2007,0.79
+Monaghan,Diseases of the respiratory system,2008,0.8
+Monaghan,Diseases of the respiratory system,2009,0.95
+Monaghan,Diseases of the respiratory system,2010,0.71
+Monaghan,Diseases of the respiratory system,2011,0.79
+Monaghan,Diseases of the respiratory system,2012,0.69
+Monaghan,Diseases of the respiratory system,2013,0.69
+Monaghan,Diseases of the respiratory system,2014,0.92
+Monaghan,Diseases of the respiratory system,2015,0.82
+Monaghan,Diseases of the respiratory system,2016,0.59
+Monaghan,External causes of injury and poisoning,2007,0.5
+Monaghan,External causes of injury and poisoning,2008,0.33
+Monaghan,External causes of injury and poisoning,2009,0.43
+Monaghan,External causes of injury and poisoning,2010,0.29
+Monaghan,External causes of injury and poisoning,2011,0.36
+Monaghan,External causes of injury and poisoning,2012,0.44
+Monaghan,External causes of injury and poisoning,2013,0.41
+Monaghan,External causes of injury and poisoning,2014,0.41
+Monaghan,External causes of injury and poisoning,2015,0.37
+Monaghan,External causes of injury and poisoning,2016,0.37
